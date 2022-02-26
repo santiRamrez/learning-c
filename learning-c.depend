@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1645746975 source:c:\xampp\htdocs\projects\learning-c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645659157 source:c:\xampp\htdocs\projects\learning-c\temp.c
+
+1645659074 source:c:\xampp\htdocs\projects\learning-c\getchar.c
+
+1645906404 source:c:\xampp\htdocs\projects\learning-c\new-word.c
+
+1645907219 source:c:\xampp\htdocs\projects\learning-c\array.c
+
+1645746903 source:c:\xampp\htdocs\projects\learning-c\count.c
+
+1645746115 source:c:\xampp\htdocs\projects\learning-c\for.c
+
+1645904511 source:c:\xampp\htdocs\projects\learning-c\imput.c
+
+1645906041 source:c:\xampp\htdocs\projects\learning-c\simple-calc.c
+
